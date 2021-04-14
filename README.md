@@ -27,9 +27,9 @@ Conclusions of the Task
 
 7) Lowest profits for each region are as follows: South= Home Office Segment, West= Home Office Segment,Central= Consumer Segment and East= Corporate Segment. We have to focus on these states for increasing their profits.
 
-8)Technology Category has the maximum Sales and Profit.This is because we have given lowest discounts for Technology category.Thus here we can say that If we give more Discount on products our sales goes increses but Profit get down.
+8) Technology Category has the maximum Sales and Profit.This is because we have given lowest discounts for Technology category.Thus here we can say that If we give more Discount on products our sales goes increses but Profit get down.
 
-9)Office Supplies category has minimum sales and Furniture category has lowest Profit. We have to focus on these categories.
+9) Office Supplies category has minimum sales and Furniture category has lowest Profit. We have to focus on these categories.
 
 10) Same Day Ship Mode has the highest sales and First Class Ship mode has the highest Profit and Discount. So, we have to use Same Day Ship Mode and First Class Ship in greater frequency.
 
